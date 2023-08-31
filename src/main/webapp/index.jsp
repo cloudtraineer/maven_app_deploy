@@ -4,7 +4,7 @@
   <title>MAVEN WEBAPP</title>
 </head>
 <body>
-<h2>Hello World!
+<h2>Hello World!</h1>
   <h3>Sample Web Application built using Maven</h3>
 </body>
 </html>
