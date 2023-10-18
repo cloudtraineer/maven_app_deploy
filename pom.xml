@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>jenkins.mvn.demo</groupId>
-  <artifactId>mvnwebapp_2</artifactId>
+  <artifactId>mvnwebapp</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>mvnwebapp Maven Webapp</name>
@@ -24,6 +24,6 @@
     
   </dependencies>
   <build>
-    <finalName>mynewapp</finalName>
+    <finalName>mynewapp_2</finalName>
   </build>
 </project>
